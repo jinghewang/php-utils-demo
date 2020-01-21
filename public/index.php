@@ -13,8 +13,8 @@ define('RUN_ENV', 'web');//web task unit
 
 require_once('../vendor/autoload.php');
 
-
-var_dump(Woodw\Utils\Helpers\ArrayHelper::array_value_exists('123',['123','456']));
+//var_dump(ArrayHelper::array_value_exists('123',['123','456']));
+//var_dump(StringHelper::hello('wjh'));
 
 
 
